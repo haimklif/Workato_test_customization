@@ -10,20 +10,20 @@
       "Name": "VM List"
     },
     {
-      "Id": "5OzOeFicJx",
-      "Name": "CentOS Linux 7"
-    },
-    {
       "Id": "dIHfSgo2zW",
       "Name": "Tiny Ubuntu 10.10 server"
     },
     {
-      "Id": "QfTCNcdjyZ",
-      "Name": "Ubuntu 16.04 LTS Server"
-    },
-    {
       "Id": "hRvrcOaOcR",
       "Name": "Z CSKANBAN-4214 Prod - Windows 7 Pro SP1"
+    },
+    {
+      "Id": "5OzOeFicJx",
+      "Name": "CentOS Linux 7"
+    },
+    {
+      "Id": "QfTCNcdjyZ",
+      "Name": "Ubuntu 16.04 LTS Server"
     }
   ],
   "AdvancedConfiguration": true,
@@ -39,6 +39,15 @@
       "Location": 0,
       "LastUpdateTime": "1753-01-01T00:00:00",
       "Id": "CTR5DsCsVvKlRqwH_eAAv7Og2"
+    },
+    {
+      "Type": 232,
+      "Order": 0,
+      "Name": "Guided Journey",
+      "Visible": true,
+      "Location": 1,
+      "LastUpdateTime": "1753-01-01T00:00:00",
+      "Id": "CTlStWaVYDJunKfbNCZVhqMg2"
     },
     {
       "Type": 229,
@@ -167,5 +176,11 @@
     "DefaultTabId": "CTR5DsCsVvKlRqwH_eAAv7Og2",
     "SlackSettings": {}
   },
-  "FullscreenLandingState": false
+  "FullscreenLandingState": false,
+  "GuidedJourney": {
+    "Chapters": [],
+    "CheckpointCheckTimeoutInSeconds": 60,
+    "CheckpointCheckPollingInSeconds": 5,
+    "Id": "CTlStWaVYDJunKfbNCZVhqMg2"
+  }
 }
