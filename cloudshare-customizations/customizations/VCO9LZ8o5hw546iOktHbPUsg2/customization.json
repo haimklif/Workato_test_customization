@@ -1,0 +1,68 @@
+{
+  "Customization": {
+    "Id": 5655606364764018232,
+    "BlueprintId": 0,
+    "CustomizationSource": 0,
+    "IsEnvBasedOnSnapshot": false,
+    "AllowPublish": false,
+    "ShowDefaultOverviewTab": true,
+    "DefaultPageToken": "",
+    "DefaultPageOptions": [
+      {
+        "Id": "cs_overview",
+        "Name": "Overview"
+      },
+      {
+        "Id": "cs_vm_list",
+        "Name": "VM List"
+      }
+    ],
+    "AllowAdvancedCustomization": true,
+    "ForceAdvancedCustomization": false,
+    "DefaultTabsContent": [],
+    "AllowAddTab": true,
+    "LastUpdateTime": "2025-08-04T15:36:27",
+    "ShowRdp10Flag": false,
+    "Tabs": [
+      {
+        "MarkupTemplate": "<div class=\"cs-viewer-page\">\n    <div class=\"cs-viewer-page-content\">\n      <div class=\"cs-viewer-page-content-left\">\n        <div class=\"cs-viewer-page-main-title\">\n        {{Name}}\n        </div>\n        <div class=\"cs-viewer-page-description\">\n        {{Description}}\n        </div>\n        <cs-viewer-start-button></cs-viewer-start-button>\n      </div>\t  \n      <div class=\"cs-viewer-page-content-right\">        \n      </div>\n    </div>\n  </div>\n",
+        "Id": 5925618039177357901,
+        "Name": "Overview",
+        "Order": 0,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "ShowCredentials": true,
+        "Id": 8889303177679266886,
+        "Name": "VM List",
+        "Order": 1,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "IframeUrl": "https://",
+        "AllowPreview": false,
+        "OpenInNewTab": false,
+        "UseMachineAddress": false,
+        "Id": 6453597232048459180,
+        "Name": "External URL",
+        "Order": 2,
+        "Visible": false,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      }
+    ],
+    "AdvancedConfiguration": true,
+    "AdvancedGeneralSettings": {
+      "DefaultTabByOrder": 0
+    },
+    "ShowVmListTab": true,
+    "ShowCredentials": true,
+    "DefaultRdpSoundConfig": 0,
+    "ShowVmTabs": true,
+    "FullscreenLandingState": true
+  }
+}
