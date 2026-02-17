@@ -190,17 +190,17 @@
         "ChapterOrder": 0,
         "Sections": [
           {
-            "Content": "",
+            "Content": "<p>Hello!</p>",
             "Id": 925507824195200235,
             "GuidedJourneyId": 2026164639057456285,
             "Order": 0,
             "Title": "Section Name",
             "EstimatedTimeMinutes": 10,
-            "LastUpdateTime": "2026-02-17T15:30:23.7580292+02:00",
+            "LastUpdateTime": "2026-02-17T15:30:23",
             "CorrelationId": 5966164359746323199
           }
         ],
-        "LastUpdateTime": "2026-02-17T15:30:23.7540282+02:00",
+        "LastUpdateTime": "2026-02-17T15:30:23",
         "CorrelationId": 3763315131002724061
       }
     ],
