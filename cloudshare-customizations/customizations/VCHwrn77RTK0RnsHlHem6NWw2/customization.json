@@ -1,0 +1,223 @@
+{
+  "Customization": {
+    "Id": 7198008638534643043,
+    "BlueprintId": 0,
+    "CustomizationSource": 0,
+    "IsEnvBasedOnSnapshot": false,
+    "AllowPublish": false,
+    "ShowDefaultOverviewTab": true,
+    "DefaultPageToken": "",
+    "DefaultPageOptions": [
+      {
+        "Id": "cs_overview",
+        "Name": "Overview"
+      },
+      {
+        "Id": "cs_vm_list",
+        "Name": "VM List"
+      },
+      {
+        "Id": "dIHfSgo2zW",
+        "Name": "Tiny Ubuntu 10.10 server"
+      },
+      {
+        "Id": "5OzOeFicJx",
+        "Name": "CentOS Linux 7"
+      },
+      {
+        "Id": "hRvrcOaOcR",
+        "Name": "Z CSKANBAN-4214 Prod - Windows 7 Pro SP1"
+      },
+      {
+        "Id": "QfTCNcdjyZ",
+        "Name": "Ubuntu 16.04 LTS Server"
+      }
+    ],
+    "AllowAdvancedCustomization": true,
+    "ForceAdvancedCustomization": false,
+    "DefaultTabsContent": [],
+    "AllowAddTab": true,
+    "LastUpdateTime": "2026-02-04T16:50:19",
+    "ShowRdp10Flag": false,
+    "Tabs": [
+      {
+        "MarkupTemplate": "<div class=\"cs-viewer-page\">\n    <div class=\"cs-viewer-page-content\">\n      <div class=\"cs-viewer-page-content-left\">\n        <div class=\"cs-viewer-page-main-title\">\n        {{Name}}\n        </div>\n        <div class=\"cs-viewer-page-description\">\n        {{Description}}\n        </div>\n        <cs-viewer-start-button></cs-viewer-start-button>\n      </div>\t  \n      <div class=\"cs-viewer-page-content-right\">        \n      </div>\n    </div>\n  </div>\n",
+        "Id": 1484388453362992260,
+        "Name": "Overview",
+        "Order": 0,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "Id": 3063194002591846029,
+        "Name": "Guided Journey",
+        "Order": 0,
+        "Visible": true,
+        "Location": 1,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "ShowCredentials": true,
+        "Id": 5846296526674273677,
+        "Name": "VM List",
+        "Order": 1,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "CrossGroupIdentity": "5OzOeFicJx",
+        "Rdp": 0,
+        "Console": 1,
+        "Vnc": 0,
+        "Ssh": 1,
+        "Rdp10": 2,
+        "ShowCredentials": true,
+        "DefaultRdpSoundConfig": 0,
+        "ShowWindowsButton": false,
+        "ShowSendCtrlAltDelete": true,
+        "ShowSendCtrlW": true,
+        "ShowDownloadRdpFile": false,
+        "ShowConnectionSideBarSection": true,
+        "StartInFullScreen": false,
+        "HideFromVmList": false,
+        "Id": 3494741313788220927,
+        "Name": "CentOS Linux 7",
+        "Order": 2,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "CrossGroupIdentity": "dIHfSgo2zW",
+        "Rdp": 0,
+        "Console": 1,
+        "Vnc": 0,
+        "Ssh": 1,
+        "Rdp10": 2,
+        "ShowCredentials": true,
+        "DefaultRdpSoundConfig": 0,
+        "ShowWindowsButton": false,
+        "ShowSendCtrlAltDelete": true,
+        "ShowSendCtrlW": true,
+        "ShowDownloadRdpFile": false,
+        "ShowConnectionSideBarSection": true,
+        "StartInFullScreen": false,
+        "HideFromVmList": false,
+        "Id": 1657399783478647336,
+        "Name": "Tiny Ubuntu 10.10 server",
+        "Order": 3,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "CrossGroupIdentity": "QfTCNcdjyZ",
+        "Rdp": 0,
+        "Console": 1,
+        "Vnc": 0,
+        "Ssh": 1,
+        "Rdp10": 2,
+        "ShowCredentials": true,
+        "DefaultRdpSoundConfig": 0,
+        "ShowWindowsButton": false,
+        "ShowSendCtrlAltDelete": true,
+        "ShowSendCtrlW": true,
+        "ShowDownloadRdpFile": false,
+        "ShowConnectionSideBarSection": true,
+        "StartInFullScreen": false,
+        "HideFromVmList": false,
+        "Id": 8174845576512692091,
+        "Name": "Ubuntu 16.04 LTS Server",
+        "Order": 4,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "CrossGroupIdentity": "hRvrcOaOcR",
+        "Rdp": 1,
+        "Console": 1,
+        "Vnc": 0,
+        "Ssh": 2,
+        "Rdp10": 0,
+        "ShowCredentials": true,
+        "DefaultRdpSoundConfig": 0,
+        "ShowWindowsButton": true,
+        "ShowSendCtrlAltDelete": true,
+        "ShowSendCtrlW": true,
+        "ShowDownloadRdpFile": true,
+        "ShowConnectionSideBarSection": true,
+        "StartInFullScreen": false,
+        "HideFromVmList": false,
+        "Id": 7415580247841362835,
+        "Name": "Z CSKANBAN-4214 Prod - Windows 7 Pro SP1",
+        "Order": 5,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "IframeUrl": "https://",
+        "AllowPreview": false,
+        "OpenInNewTab": false,
+        "UseMachineAddress": false,
+        "Id": 5493423821253424949,
+        "Name": "External URL",
+        "Order": 6,
+        "Visible": false,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      }
+    ],
+    "AdvancedConfiguration": true,
+    "AdvancedGeneralSettings": {
+      "DefaultTabByOrder": 0
+    },
+    "ShowVmListTab": true,
+    "ShowCredentials": true,
+    "DefaultRdpSoundConfig": 0,
+    "ShowVmTabs": true,
+    "FullscreenLandingState": false
+  },
+  "GuidedJourney": {
+    "Id": 3063194002591846029,
+    "Chapters": [
+      {
+        "Id": 6073353615590751825,
+        "Name": "Chapter 1",
+        "ChapterOrder": 0,
+        "Sections": [
+          {
+            "Content": "",
+            "Id": 863370801496469128,
+            "GuidedJourneyId": 3063194002591846029,
+            "Order": 0,
+            "Title": "Section Name",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2026-02-04T16:50:20",
+            "Checkpoint": {
+              "Id": 703432639879230327,
+              "ImgPath": "4acdc5a9-86b5-49a8-9e9c-e7e51802329e.png",
+              "AreasString": "[\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 180,\r\n      \"Y\": 99\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 495,\r\n      \"Y\": 235\r\n    }\r\n  }\r\n]",
+              "GuidedJourneySectionId": 863370801496469128,
+              "LastUpdateTime": "1753-01-01T00:00:00",
+              "LearnRequestId": 7197232704408725196,
+              "AllowFailedCheck": false,
+              "EnableHint": false
+            },
+            "CheckpointId": 703432639879230327,
+            "EnableCheckpointHint": false,
+            "AllowCheckpointFailedCheck": false,
+            "CorrelationId": 6827333607726121519
+          }
+        ],
+        "LastUpdateTime": "1753-01-01T00:00:00",
+        "CorrelationId": 3629731722683544973
+      }
+    ],
+    "CheckpointCheckTimeoutInSeconds": 60,
+    "CheckpointCheckPollingInSeconds": 5
+  }
+}
