@@ -1,0 +1,80 @@
+{
+  "Customization": {
+    "Id": 398322376557131704,
+    "BlueprintId": 0,
+    "CustomizationSource": 0,
+    "IsEnvBasedOnSnapshot": false,
+    "AllowPublish": false,
+    "ShowDefaultOverviewTab": true,
+    "DefaultPageToken": "",
+    "DefaultPageOptions": [
+      {
+        "Id": "cs_overview",
+        "Name": "Overview"
+      },
+      {
+        "Id": "cs_vm_list",
+        "Name": "VM List"
+      }
+    ],
+    "AllowAdvancedCustomization": true,
+    "ForceAdvancedCustomization": false,
+    "DefaultTabsContent": [],
+    "AllowAddTab": true,
+    "LastUpdateTime": "2025-10-05T10:50:41",
+    "ShowRdp10Flag": false,
+    "Tabs": [
+      {
+        "IframeUrl": "https://www.google.com/",
+        "AllowPreview": false,
+        "OpenInNewTab": false,
+        "UseMachineAddress": false,
+        "Id": 1401477627400525155,
+        "Name": "External URL",
+        "Order": 0,
+        "Visible": true,
+        "Location": 1,
+        "LastUpdateTime": "2025-10-05T10:51:41"
+      },
+      {
+        "MarkupTemplate": "<div class=\"cs-viewer-page\">\r\n    <div class=\"cs-viewer-page-content\">\r\n      <div class=\"cs-viewer-page-content-left\">\r\n        <div class=\"cs-viewer-page-main-title\">\r\n        {{Name}}\r\n        </div>\r\n        <div class=\"cs-viewer-page-description\">\r\n        {{Description}}\r\n        </div>\r\n        <cs-viewer-start-button></cs-viewer-start-button>\r\n      </div>\t  \r\n      <div class=\"cs-viewer-page-content-right\">        \r\n      </div>\r\n    </div>\r\n  </div>\r\n",
+        "Id": 5642472647805881242,
+        "Name": "Overview",
+        "Order": 0,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "ShowCredentials": true,
+        "Id": 4154205889602673056,
+        "Name": "VM List",
+        "Order": 1,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "IframeUrl": "https://adaptalearn.learningtree.com/Output/4670b1/index.html",
+        "AllowPreview": false,
+        "OpenInNewTab": false,
+        "UseMachineAddress": false,
+        "Id": 8653980509187186333,
+        "Name": "External URL",
+        "Order": 1,
+        "Visible": false,
+        "Location": 1,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      }
+    ],
+    "AdvancedConfiguration": true,
+    "AdvancedGeneralSettings": {
+      "DefaultTabByOrder": 0
+    },
+    "ShowVmListTab": true,
+    "ShowCredentials": true,
+    "DefaultRdpSoundConfig": 0,
+    "ShowVmTabs": true,
+    "FullscreenLandingState": false
+  }
+}
