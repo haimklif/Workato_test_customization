@@ -1,0 +1,102 @@
+{
+  "Customization": {
+    "Id": 9058207615441598674,
+    "BlueprintId": 0,
+    "CustomizationSource": 0,
+    "IsEnvBasedOnSnapshot": false,
+    "AllowPublish": false,
+    "ShowDefaultOverviewTab": true,
+    "DefaultPageToken": "",
+    "DefaultPageOptions": [
+      {
+        "Id": "cs_overview",
+        "Name": "Overview"
+      },
+      {
+        "Id": "cs_vm_list",
+        "Name": "VM List"
+      }
+    ],
+    "AllowAdvancedCustomization": true,
+    "ForceAdvancedCustomization": false,
+    "DefaultTabsContent": [],
+    "AllowAddTab": true,
+    "LastUpdateTime": "2025-10-09T09:29:09",
+    "ShowRdp10Flag": false,
+    "Tabs": [
+      {
+        "Id": 749928027420495897,
+        "Name": "Guided Journey",
+        "Order": 0,
+        "Visible": true,
+        "Location": 1,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "MarkupTemplate": "<div class=\"cs-viewer-page\">\n<div class=\"cs-viewer-page-content\">\n<div class=\"cs-viewer-page-content-left\">\n<div class=\"cs-viewer-page-main-title\">{{Name}}</div>\n<div class=\"cs-viewer-page-description\">{{Description}}</div>\n<cs-viewer-start-button></cs-viewer-start-button>\n<ol>\n<li>1</li>\n<li>2</li>\n<li>3</li>\n<li>4</li>\n<li>5</li>\n</ol>\n<p>efeif</p>\n<ol start=\"22\">\n<li>6</li>\n<li>sdgfdg</li>\n<li>dsgdsg</li>\n<li>sdgdsg</li>\n<li>&nbsp;</li>\n</ol>\n<p>&nbsp;</p>\n<p>7.&nbsp;</p>\n</div>\n<div class=\"cs-viewer-page-content-right\">&nbsp;</div>\n</div>\n</div>",
+        "Id": 854364284393595772,
+        "Name": "Overview",
+        "Order": 0,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "2025-10-09T10:48:32"
+      },
+      {
+        "ShowCredentials": true,
+        "Id": 6713232862144243401,
+        "Name": "VM List",
+        "Order": 1,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "IframeUrl": "https://",
+        "AllowPreview": false,
+        "OpenInNewTab": false,
+        "UseMachineAddress": false,
+        "Id": 4610554240122135756,
+        "Name": "External URL",
+        "Order": 2,
+        "Visible": false,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      }
+    ],
+    "AdvancedConfiguration": true,
+    "AdvancedGeneralSettings": {
+      "DefaultTabByOrder": 0
+    },
+    "ShowVmListTab": true,
+    "ShowCredentials": true,
+    "DefaultRdpSoundConfig": 0,
+    "ShowVmTabs": true,
+    "FullscreenLandingState": false
+  },
+  "GuidedJourney": {
+    "Id": 749928027420495897,
+    "Chapters": [
+      {
+        "Id": 9048877227180930876,
+        "Name": "Chapter 1",
+        "ChapterOrder": 0,
+        "Sections": [
+          {
+            "Content": "<ol>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">1</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">2</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">3</p>\n</li>\n</ol>\n<p dir=\"ltr\">Hello</p>\n<ol class=\"abcd\" start=\"4\">\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">4</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">5</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">6</p>\n</li>\n</ol>\n<p dir=\"ltr\">Hi!</p>\n<ol start=\"7\">\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">7</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">1</li>\n<li dir=\"ltr\" aria-level=\"1\">sdfgd</li>\n</ol>\n<p>&nbsp;</p>",
+            "Id": 3001503756238326525,
+            "GuidedJourneyId": 749928027420495897,
+            "Order": 0,
+            "Title": "Section Name",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2025-10-09T10:48:32",
+            "CorrelationId": 1706122776200540556
+          }
+        ],
+        "LastUpdateTime": "2025-10-09T10:48:32",
+        "CorrelationId": 4053309634637982605
+      }
+    ],
+    "CheckpointCheckTimeoutInSeconds": 60,
+    "CheckpointCheckPollingInSeconds": 5
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "Customization": {
+    "Id": 4279638601197530130,
+    "BlueprintId": 0,
+    "CustomizationSource": 0,
+    "IsEnvBasedOnSnapshot": false,
+    "AllowPublish": false,
+    "ShowDefaultOverviewTab": false,
+    "DefaultPageToken": "",
+    "DefaultPageOptions": [
+      {
+        "Id": "cs_overview",
+        "Name": "Overview"
+      },
+      {
+        "Id": "cs_vm_list",
+        "Name": "VM List"
+      }
+    ],
+    "AllowAdvancedCustomization": true,
+    "ForceAdvancedCustomization": false,
+    "DefaultTabsContent": [],
+    "AllowAddTab": true,
+    "LastUpdateTime": "2026-01-12T16:57:43",
+    "ShowRdp10Flag": false,
+    "EndUserLoginCustomization": {
+      "Title": "failed checks",
+      "Subtitle": "Enter your email and passphrase",
+      "EnableTitle": true,
+      "EnableSubtitle": false,
+      "EnableBanner": true,
+      "BannerPathHash": "",
+      "BannerFilename": ""
+    },
+    "Tabs": [
+      {
+        "MarkupTemplate": "<p><img style=\"width: 100%; height: auto\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_4ca93c3e5e8d9e9aefb4306d2f5c51d3b3e014f7.png\" width=\"0\" height=\"0\"></p>\n<div class=\"cs-viewer-page\">\n<div class=\"cs-viewer-page-content\">\n<div class=\"cs-viewer-page-content-left\">\n<div class=\"cs-viewer-page-main-title\">{{Name}}</div>\n<div class=\"cs-viewer-page-description\">{{Description}}</div>\n<cs-viewer-start-button></cs-viewer-start-button>\n<p><img style=\"width: 100%; height: auto\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_59c29b5abf3be724311cdc3fa950c7c521c44b74.png\" width=\"0\" height=\"0\"></p>\n<p>kjnknknk</p>\n<p>&nbsp;</p>\n<p><img style=\"width: 100%; height: auto\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_e9d9db2202ba15b0de3eb6671373930e3a73e7e1.png\" width=\"0\" height=\"0\"></p>\n</div>\n<div class=\"cs-viewer-page-content-right\">&nbsp;</div>\n</div>\n</div>",
+        "Id": 1813778761311457271,
+        "Name": "Overview 1234",
+        "Order": 0,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "2026-01-12T17:26:01"
+      },
+      {
+        "Id": 5197696759513852657,
+        "Name": "Guided Journey",
+        "Order": 0,
+        "Visible": true,
+        "Location": 1,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "ShowCredentials": true,
+        "Id": 930647137640580322,
+        "Name": "VM List",
+        "Order": 1,
+        "Visible": true,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "MarkupTemplate": "<p><img style=\"width: 100%; height: auto\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_c557a9967e3286a9e2052563d8020af06ea604aa.png\" width=\"0\" height=\"0\"></p>\n<div class=\"cs-viewer-page\">\n<div class=\"cs-viewer-page-content\">\n<div class=\"cs-viewer-page-content-left\">\n<div class=\"cs-viewer-page-main-title\">{{Name}}wfwfwf</div>\n<div class=\"cs-viewer-page-description\">{{Description}}</div>\n<cs-viewer-start-button></cs-viewer-start-button></div>\n<div class=\"cs-viewer-page-content-right\">&nbsp;</div>\n</div>\n</div>",
+        "Id": 7011578474802225235,
+        "Name": "Overview",
+        "Order": 1,
+        "Visible": true,
+        "Location": 1,
+        "LastUpdateTime": "2025-03-27T16:43:29"
+      },
+      {
+        "IframeUrl": "https://",
+        "AllowPreview": false,
+        "OpenInNewTab": false,
+        "UseMachineAddress": false,
+        "Id": 1503539782255529263,
+        "Name": "External URL",
+        "Order": 2,
+        "Visible": false,
+        "Location": 0,
+        "LastUpdateTime": "1753-01-01T00:00:00"
+      },
+      {
+        "Path": "/",
+        "SubscriptionId": 1342370082270457707,
+        "DescriptionHtml": "<h1><img id=\"\" style=\"width: 100%; height: auto;\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_9387c9e97263817ca154c32b02f3812bbad9b129.png\" width=\"0\" height=\"0\">Resource Description</h1>\n<p>Write some things about the files here:</p>\n<ol>\n<li>First file111</li>\n<li>Second file</li>\n<li>Third file</li>\n</ol>\n<p>&nbsp;</p>\n<p><img id=\"\" style=\"width: 100%; height: auto;\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_d1266f9ef5427f0ad86482f46b5bbbc52e8bc508.png\" width=\"0\" height=\"0\"></p>\n<ol>\n<li>&nbsp;</li>\n</ol>",
+        "EnableDetachButton": false,
+        "Id": 3387820433702487546,
+        "Name": "Resources",
+        "Order": 2,
+        "Visible": true,
+        "Location": 1,
+        "LastUpdateTime": "2025-03-27T16:43:29"
+      }
+    ],
+    "AdvancedConfiguration": true,
+    "AdvancedGeneralSettings": {
+      "DefaultTabByOrder": 0
+    },
+    "ShowVmListTab": false,
+    "ShowCredentials": false,
+    "DefaultRdpSoundConfig": 0,
+    "ShowVmTabs": false,
+    "BrandingData": {
+      "BrandingColor": "#9013fe"
+    },
+    "FullscreenLandingState": false
+  },
+  "GuidedJourney": {
+    "Id": 5197696759513852657,
+    "Chapters": [
+      {
+        "Id": 5904141570351726185,
+        "Name": "Chapter 1",
+        "ChapterOrder": 0,
+        "Sections": [
+          {
+            "Content": "<p><img id=\"\" style=\"width: 100%; height: auto;\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_c557a9967e3286a9e2052563d8020af06ea604aa.png\" width=\"0\" height=\"0\">Section Name1</p>\n<p>Section Name2</p>\n<p>Section Name3</p>\n<p>Section Name4</p>\n<p>Section Name5</p>\n<p>Section Name6</p>\n<p>Section Name7</p>\n<p>Section Name8</p>\n<p>Section Name9</p>\n<p>Section Name10</p>\n<p>Section Name11<img id=\"aimg_1\" style=\"width: 50%; height: auto;\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_4ca93c3e5e8d9e9aefb4306d2f5c51d3b3e014f7.png\" width=\"0\" height=\"0\"></p>\n<p>Section Name</p>\n<p>Section Name</p>\n<p>Section Name</p>\n<p>Section Name</p>\n<p>Section Name</p>\n<p>6: Section Name</p>\n<p>7: Section Name</p>\n<p>8: Section Name</p>\n<p>9: Section Name</p>\n<p>10: Section Name</p>",
+            "Id": 4770649239838393990,
+            "GuidedJourneyId": 5197696759513852657,
+            "Order": 0,
+            "Title": "Section Name Haim111678",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2026-02-08T12:15:54",
+            "CorrelationId": 2966878695552330467
+          },
+          {
+            "Content": "<p><img id=\"\" style=\"width: 100%; height: auto;\" src=\"https://localhost/api/v3/htmlContentImage?imageUrl=SHA1Managed_HtmlContentImage_efafd36e4389ad16febb52e96505cc1d4e41c741.png\" width=\"0\" height=\"0\"></p>",
+            "Id": 9070373809062062441,
+            "GuidedJourneyId": 5197696759513852657,
+            "Order": 1,
+            "Title": "Section Name Haim11145",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2026-02-08T12:15:54",
+            "CorrelationId": 7175678248405131743
+          },
+          {
+            "Content": "",
+            "Id": 2901783250936211134,
+            "GuidedJourneyId": 5197696759513852657,
+            "Order": 2,
+            "Title": "Section Name Haim111444",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2026-02-08T12:15:54",
+            "Checkpoint": {
+              "Id": 8660604432481632453,
+              "ImgPath": "23ae4a00-9b61-4c03-9667-23c6f040d098.png",
+              "AreasString": "[\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 86,\r\n      \"Y\": 19\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 643,\r\n      \"Y\": 103\r\n    }\r\n  },\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 0,\r\n      \"Y\": 274\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 351,\r\n      \"Y\": 347\r\n    }\r\n  }\r\n]",
+              "GuidedJourneySectionId": 2901783250936211134,
+              "LastUpdateTime": "1753-01-01T00:00:00",
+              "LearnRequestId": 8913840311476264969,
+              "AllowFailedCheck": false,
+              "EnableHint": false
+            },
+            "CheckpointId": 8660604432481632453,
+            "EnableCheckpointHint": false,
+            "AllowCheckpointFailedCheck": false,
+            "CorrelationId": 912713051431441948
+          },
+          {
+            "Content": "<p>Hello!</p>",
+            "Id": 7514017360274449021,
+            "GuidedJourneyId": 5197696759513852657,
+            "Order": 3,
+            "Title": "Section Name Haim1112",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2026-02-08T12:15:54",
+            "Checkpoint": {
+              "Id": 42261534166743412,
+              "ImgPath": "739397f6-24a5-4d87-86ea-accea6fbde74.png",
+              "AreasString": "[\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 910,\r\n      \"Y\": 465\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 1669,\r\n      \"Y\": 936\r\n    }\r\n  },\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 567,\r\n      \"Y\": 196\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 728,\r\n      \"Y\": 302\r\n    }\r\n  },\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 806,\r\n      \"Y\": 193\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 918,\r\n      \"Y\": 324\r\n    }\r\n  }\r\n]",
+              "GuidedJourneySectionId": 7514017360274449021,
+              "LastUpdateTime": "1753-01-01T00:00:00",
+              "LearnRequestId": 1021311884307649572,
+              "AllowFailedCheck": false,
+              "EnableHint": false
+            },
+            "CheckpointId": 42261534166743412,
+            "EnableCheckpointHint": false,
+            "AllowCheckpointFailedCheck": false,
+            "CorrelationId": 1991559357259342143
+          },
+          {
+            "Content": "Avucado",
+            "Id": 6953753280210728613,
+            "GuidedJourneyId": 5197696759513852657,
+            "Order": 4,
+            "Title": "Section Name Haim111333",
+            "EstimatedTimeMinutes": 10,
+            "LastUpdateTime": "2026-02-08T12:15:54",
+            "Checkpoint": {
+              "Id": 2971807552946354550,
+              "ImgPath": "23ae4a00-9b61-4c03-9667-23c6f040d098.png",
+              "AreasString": "[\r\n  {\r\n    \"TopLeft\": {\r\n      \"X\": 907,\r\n      \"Y\": 34\r\n    },\r\n    \"BottomRight\": {\r\n      \"X\": 979,\r\n      \"Y\": 304\r\n    }\r\n  }\r\n]",
+              "GuidedJourneySectionId": 6953753280210728613,
+              "LastUpdateTime": "2025-05-04T16:46:32",
+              "LearnRequestId": 6849348678738726168,
+              "AllowFailedCheck": false,
+              "EnableHint": false
+            },
+            "CheckpointId": 2971807552946354550,
+            "EnableCheckpointHint": false,
+            "AllowCheckpointFailedCheck": false,
+            "CorrelationId": 5877729339192756270
+          }
+        ],
+        "LastUpdateTime": "2026-02-08T12:15:54",
+        "CorrelationId": 351726185
+      }
+    ],
+    "CheckpointCheckTimeoutInSeconds": 60,
+    "CheckpointCheckPollingInSeconds": 5
+  }
+}
